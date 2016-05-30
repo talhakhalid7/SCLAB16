@@ -4,9 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-/*
- * xkjsakjasbdkh
- */
+
 		System.out.println("Enter first and second number:");
         Scanner inp= new Scanner(System.in);
         int num1,num2;
