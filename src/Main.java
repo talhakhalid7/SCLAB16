@@ -46,7 +46,10 @@ public class Main {
 		return null;
 	}
 
-
+	private static char[] sub(int num1, int num2) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 	private static char[] add(int num1, int num2) {
 		// TODO Auto-generated method stub
